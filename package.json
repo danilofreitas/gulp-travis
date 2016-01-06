@@ -4,7 +4,7 @@
   "dependencies": {},
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install",
-    "test": "gulp test"
+    "test": "gulp protractor"
   },
   "devDependencies": {
     "bower": "^1.7.2",
